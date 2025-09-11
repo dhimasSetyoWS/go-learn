@@ -3,6 +3,5 @@ package main
 import "fmt"
 
 func main() {
-
-	fmt.Print()
+	fmt.Print("Test project pertama aja")
 }
