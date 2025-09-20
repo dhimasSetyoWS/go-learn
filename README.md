@@ -19,19 +19,19 @@ A.7. Program Pertama: Hello World
 
 A.8. Komentar
 
-A.9. Variabel
+A.9. Variabel ✅
 
-A.10. Tipe Data
+A.10. Tipe Data ✅
 
-A.11. Konstanta
+A.11. Konstanta ✅
 
-A.12. Operator
+A.12. Operator ✅
 
-A.13. Seleksi Kondisi
+A.13. Seleksi Kondisi ✅
 
-A.14. Perulangan
+A.14. Perulangan ✅
 
-A.15. Array
+A.15. Array ✅
 
 A.16. Slice
 
